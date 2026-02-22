@@ -43,8 +43,6 @@ int main(){
 
 //Lendo dados da carta 2
 
-    //Lendo os dados da carta 1
-
     printf("Digite o numero da carta (1-4): ");
     scanf("%d", &carta2numero);
 
